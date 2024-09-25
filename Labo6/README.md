@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/k3ebQfrR)
+
 # Laboratoire 6: Ecole
 
 _Durée du laboratoire: 4 périodes. A rendre le mercredi 15 novembre 2023, au début de la séance de laboratoire (13h15)._

@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-mOrJVhW)
-
 # Laboratoire Lab04 - Types primitifs et classes
 _Durée du laboratoire: 2 périodes._
 date du rendu: 20/10/2023 à 10h15 sur GitHub (branche `main`).
