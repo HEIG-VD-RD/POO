@@ -1,0 +1,54 @@
+Category,Position Name,FEN String,Expected Moves
+Basic Positions,Game Start,rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1,20
+Basic Positions,Pawn Single Move,8/8/8/8/8/8/4P3/8 w - - 0 1,2
+Basic Positions,Pawn Double Move,8/8/8/8/8/8/4P3/8 w - - 0 1,2
+Basic Positions,Rook Basic Move,8/8/8/8/8/8/8/4R3 w - - 0 1,14
+Basic Positions,Knight Basic Move,8/8/8/8/4N3/8/8/8 w - - 0 1,8
+Basic Positions,Bishop Basic Move,8/8/8/8/8/8/8/4B3 w - - 0 1,7
+Basic Positions,Queen Basic Move,8/8/8/8/8/8/8/4Q3 w - - 0 1,21
+Basic Positions,King Basic Move,8/8/8/8/8/8/8/4K3 w - - 0 1,5
+Opening Positions,King's Gambit,rnbqkbnr/pppppppp/8/8/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 1,31
+Opening Positions,Queen's Gambit,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,27
+Opening Positions,Ruy Lopez,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,27
+Opening Positions,Sicilian Defense,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,30
+Opening Positions,French Defense,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,27
+Opening Positions,Caro-Kann Defense,rnbqkbnr/pp2pppp/2p5/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,27
+Opening Positions,Pirc Defense,rnbqkbnr/ppppppp1/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,30
+Opening Positions,Nimzo-Indian Defense,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/2N1P3/PPP1BPPP/R1BQK1NR w KQkq - 3 4,32
+Opening Positions,King's Indian Defense,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQ - 3 6,35
+Opening Positions,Slav Defense,rnbqkbnr/pp2pppp/2p5/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 3,23
+Opening Positions,Grunfeld Defense,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 0 4,28
+Opening Positions,Alekhine's Defense,rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,30
+Debugging Positions,Pawn Endgame,8/5p2/8/8/8/8/4P3/8 w - - 0 1,2
+Debugging Positions,Rook Endgame,8/8/8/8/8/4R3/8/4K3 w - - 0 1,18
+Debugging Positions,Bishop and Knight Mate,8/8/8/8/5K2/5N2/8/5B2 w - - 0 1,22
+Debugging Positions,Double Rook Mate,8/8/8/8/8/4R3/4R3/4k3 b - - 0 1,2
+Debugging Positions,Fried Liver Attack,r1bqkbnr/ppp2ppp/2n5/3pp3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,32
+Debugging Positions,Fool's Mate,rnb1kbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,29
+Debugging Positions,Scholar's Mate,r1bqkbnr/pppp1ppp/8/n3p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 2 3,43
+Debugging Positions,Lucena Position,8/8/8/8/8/P7/1K6/R7 w - - 0 1,15
+Debugging Positions,Philidor Position,8/8/8/8/8/1R6/6P1/6K1 w - - 0 1,20
+Debugging Positions,Zugzwang,8/8/8/8/8/8/1p6/k1K5 w - - 0 1,3
+Debugging Positions,Stalemate,8/8/8/8/8/8/5q2/4k1K1 w - - 0 1,1
+Special Moves,En Passant Basic,8/8/8/1pP5/8/8/8/8 w - b6 0 1,2
+Special Moves,En Passant Capture,8/8/8/8/1pP5/8/8/8 w - b3 0 1,1
+Special Moves,En Passant Defense,8/8/8/1pP5/8/8/8/8 b - c6 0 1,1
+Special Moves,Kingside Castling,8/8/8/8/8/8/8/4K2R w K - 0 1,15
+Special Moves,Queenside Castling,8/8/8/8/8/8/8/R3K3 w Q - 0 1,16
+Special Moves,Castling Through Check,8/8/8/8/8/5r2/8/4K2R w K - 0 1,12
+Special Moves,Basic Pin,8/8/8/8/4q3/4B3/8/4K3 w - - 0 1,5
+Special Moves,Absolute Pin,8/8/8/8/8/8/3q4/4K3 w - - 0 1,2
+Special Moves,Relative Pin,8/8/8/5b2/8/3N4/8/4K3 w - - 0 1,12
+Special Moves,En Passant Complex,8/3p4/8/1P6/8/8/8/8 w - d6 0 1,1
+Special Moves,Castling Obstruction,8/8/8/8/8/8/8/R3K2R w KQ - 0 1,26
+Checks and Checkmates,Simple Check,8/8/8/8/8/8/5q2/4K3 w - - 0 1,2
+Checks and Checkmates,Double Check,8/8/8/8/3q4/3N4/8/4K3 w - - 0 1,11
+Checks and Checkmates,Basic Checkmate,8/8/8/8/8/8/3rq3/4K3 w - - 0 1,0
+Checks and Checkmates,Back Rank Mate,8/8/8/8/8/8/8/R3K2R w - - 0 1,24
+Checks and Checkmates,Smothered Mate,6rk/5Npp/8/8/8/8/8/8 b - - 0 1,0
+Checks and Checkmates,Queen Check,8/8/8/8/8/8/3q4/4K3 w - - 0 1,2
+Checks and Checkmates,Rook Checkmate,8/8/8/8/8/8/1R6/R3k3 b - - 0 1, 0
+Checks and Checkmates,Bishop Check,8/8/8/8/8/3B4/8/4K3 w - - 0 1,16
+Checks and Checkmates,Knight Check,8/8/8/8/8/3N4/8/4K3 w - - 0 1,12
+Checks and Checkmates,Pawn Checkmate,8/8/8/8/8/8/4P3/4K3 w - - 0 1,6
+Checks and Checkmates,Multiple Checks,8/8/8/8/3q4/3R4/8/4K3 w - - 0 1,14

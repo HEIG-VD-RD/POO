@@ -1,0 +1,14 @@
+Category,Position Name,FEN String
+Draws,Insufficient material,8/8/8/8/8/8/8/k1K5 w - - 0 1
+Draws,Insufficient with bishop,8/8/8/8/8/b7/8/k1K5 w - - 0 1
+Draws,Insufficient with knight,8/8/8/8/8/n7/8/k1K5 w - - 0 1
+Draws,Insufficient with bishops,8/8/6bB/8/8/8/k1K5 w - - 0 1
+Draws,Stalemate,8/8/8/8/8/1k6/2P5/K7 w - - 0 1
+Draws,Threefold Repetition,6n1/8/8/8/8/8/8/1N6 w - - 0 1
+Draws,Fifty-move rule,8/8/8/8/8/1k6/2P5/K7 w - - 49 1
+Promotions,Promotion,8/4P3/8/8/8/8/8/8 w - - 0 1
+Promotions,Promotion in Endgame,8/8/8/8/8/8/4P3/4K3 w - - 0 1
+Promotions,Promotion with Mate Threat,4k3/4P3/8/8/8/8/8/R3K3 w - - 0 1
+Promotions,Promotion Defense,8/8/8/8/8/8/4P3/4K3 b - - 0 1
+Promotions,Promotion with Opposition,8/8/8/8/8/4k3/4P3/4K3 w - - 0 1
+Promotions,Promotion to Avoid Stalemate,8/8/8/8/8/8/4P3/4K1k1 w - - 0 1
