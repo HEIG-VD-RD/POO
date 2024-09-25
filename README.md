@@ -7,5 +7,5 @@ This repository contains all my practical work related to the Object-oriented pr
 [Labo4](Labo4) <br>
 [Labo5](Labo5) <br>
 [Labo6](Labo6) <br>
-[Labo6](Labo7) <br>
-[Labo6](Labo8) <br>
+[Labo7](Labo7) <br>
+[Labo8](Labo8) <br>
